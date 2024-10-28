@@ -1,5 +1,5 @@
 # YuandaOS
-## Base on MikeOS
+Base on MikeOS
 https://github.com/mig-hub/mikeOS
 
 ![Screenshot 2024-10-19 172201](https://github.com/user-attachments/assets/61866d68-0283-455b-a6a0-331a4e9b30b4)
